@@ -1,1 +1,3 @@
-team-35-repo
+Shop inventory system
+
+Group University project
